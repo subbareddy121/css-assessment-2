@@ -1,0 +1,132 @@
+body{
+    margin: 0%;
+    border: 5px solid greenyellow;
+    
+}
+.table{
+    display: flex;
+    justify-content: space-around;
+}
+.circle{
+    text-align: center;
+    width: 230px;
+    height: 190px;
+    text-decoration: underline;
+    background-color: lightseagreen;
+    border: 4px solid rgb(90, 89, 104);
+    border-radius: 50%;
+    padding: 30px;
+    margin-top: 350px;
+    
+}
+.main{
+    display: flex;
+    justify-content:space-between;
+    margin: 10px 5px 0 5px;
+}
+.a{
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 30px;
+    width: 250px;
+    height: 100px;
+    padding-left:7px;
+}
+.b{
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 30px;
+    width: 290px;
+    height: 60px;
+    padding-left:17px;
+    
+}.c{
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 30px;
+    width: 200px;
+    height: 130px;
+    padding-left:17px;
+    margin-right: 10px;
+}
+.form{
+    color: tomato;
+    border: 5px dashed tomato;
+    letter-spacing: 5px;
+    width:500px;
+    height:650px ;
+    margin-left: -100px;
+    padding: 20px;
+}
+.d{
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 30px;
+    width: 420px;
+    height: 60px;
+    margin-left: 500px;
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("menu.webp");
+    background-image:radial-gradient();
+    
+}
+.l{
+    
+    color:chartreuse;
+    border: 3px solid green;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-image: url("bmenu.png");
+   
+}
+.p{
+    color:chartreuse;
+    background-image: url("bmenu.png");
+    border: 3px solid green;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+
+}
+.q{
+    color:chartreuse;
+    background-image: url("bmenu.png");
+    border: 3px solid green;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+.sheet{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("menu.webp");
+    background-image:linear-gradient();
+}
+.r{
+    color:chartreuse;
+    background-image: url("bmenu.png");
+    border: 3px solid green;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+.s{
+    color:chartreuse;
+    background-image: url("bmenu.png");
+    border: 3px solid green;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+.t{
+    color:chartreuse;
+    background-image: url("bmenu.png");
+    border: 3px solid green;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
